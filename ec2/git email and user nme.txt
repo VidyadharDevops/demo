@@ -1,0 +1,2 @@
+ git config --global user.email vidyadharkc@gmail.com
+  git config --global user.name VidyadharDevops
